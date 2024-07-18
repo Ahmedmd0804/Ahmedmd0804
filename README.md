@@ -1,8 +1,8 @@
 👋 Hi, I’m @Ahmedmd0804
 👀 I’m interested in learning and exploring new technologies.
 🌱 I’m currently learning Data Analysis.
-📫 How to reach me: mdahmed3611@gmail.com
-😄 Pronouns: He/Him
+📫 Reach me out at mdahmed3611@gmail.com
+😄 Pronouns He/Him
 ⚡ Fun fact: I can debug my coffee machine before my first cup of coffee!
 
 <!---
