@@ -8,23 +8,23 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00C2FF&center=true&vCenter=true&width=850&lines=Business+Systems+%7C+IT+%7C+Automation;Full-Stack+Development+%7C+AI+%7C+Cloud;Building+Systems%2C+Automations+%26+AI-Powered+Solutions;Turning+Ideas+Into+Practical+Technology" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=00C2FF&center=true&vCenter=true&width=950&lines=Forward+Deployed+Engineer+%7C+Full-Stack+Engineer;WMS+%7C+Enterprise+Systems+%7C+Automation;AI+%7C+MCP+%7C+Integrations+%7C+Cloud;Building+Practical+Systems+Around+Real+Business+Problems" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=6C63FF&style=flat-square" />
 </p>
 
 ---
 
-## 👋 A Little About Me
+## About Me
 
-I’m an IT professional who enjoys working where **business, technology, automation, and AI** come together.
+I’m a **Forward Deployed / Full-Stack Engineer** with experience across **WMS, enterprise applications, systems integration, automation, data, dashboards, and AI-assisted development**.
 
-I build and work with **web applications, business systems, APIs, databases, cloud environments, automation workflows, dashboards, and AI-powered solutions**. I like taking a problem or idea, figuring out how it should work, and turning it into something practical.
+My work involves understanding how business and warehouse operations actually work, then building systems that make those processes easier to manage, automate, and scale.
 
-I’m constantly experimenting with new technologies, building projects, and finding better ways to connect **people, processes, systems, and data**.
+I have experience with **warehouse and inventory workflows including receiving, putaway, replenishment, allocation, picking, packing, shipping, returns, inventory status management, holds, damaged stock, quarantine, and fulfillment**.
+
+I work across the full application architecture — from **UI/UX and frontend development to APIs, backend logic, SQL databases, integrations, automation, cloud deployment, and production support**.
+
+I also use **Claude, Gemini, Copilot, Codex, LLM APIs, RAG, and MCP concepts** to speed up development, improve troubleshooting, and build more intelligent enterprise applications.
 
 ---
 
@@ -48,6 +48,18 @@ I’m constantly experimenting with new technologies, building projects, and fin
 
 <td align="center" width="25%">
 
+### 📦 WMS & OPERATIONS
+
+`Receiving` `Putaway`  
+`Replenishment` `Allocation`  
+`Picking` `Packing`  
+`Shipping` `Returns`  
+`Inventory Status` `Fulfillment`
+
+</td>
+
+<td align="center" width="25%">
+
 ### 🧠 AI & AUTOMATION
 
 <img src="https://skillicons.dev/icons?i=python&perline=4" />
@@ -58,32 +70,20 @@ I’m constantly experimenting with new technologies, building projects, and fin
 
 `n8n` `Power Automate`  
 `UiPath` `RAG`  
-`LLM APIs` `AI Workflows`
+`LLM APIs` `MCP`
 
 </td>
 
 <td align="center" width="25%">
 
-### ☁️ CLOUD & DEVOPS
+### ☁️ DATA & CLOUD
 
-<img src="https://skillicons.dev/icons?i=azure,aws,docker,git,github&perline=3" />
-
-`Azure` `AWS`  
-`Docker` `Git`  
-`GitHub` `CI/CD`
-
-</td>
-
-<td align="center" width="25%">
-
-### 🗄️ DATA & SYSTEMS
-
-<img src="https://skillicons.dev/icons?i=mysql,python&perline=3" />
+<img src="https://skillicons.dev/icons?i=mysql,azure,docker,git,github&perline=3" />
 
 `SQL` `MySQL`  
-`REST APIs` `JSON`  
-`Databases` `Power BI`  
-`System Architecture`
+`Azure` `Docker`  
+`Git` `GitHub`  
+`CI/CD` `Data Migration`
 
 </td>
 </tr>
@@ -127,97 +127,58 @@ I’m constantly experimenting with new technologies, building projects, and fin
 
 ---
 
-# 🧪 Currently Playing With
+# 🧪 Currently Exploring
 
 <div align="center">
 
-`AI Agents` &nbsp; `RAG` &nbsp; `LLM APIs` &nbsp; `Workflow Automation`
+`MCP Servers` &nbsp; `AI Agents` &nbsp; `RAG` &nbsp; `LLM APIs`
 
-`Cloud Architecture` &nbsp; `System Design` &nbsp; `API Integrations`
+`WMS Applications` &nbsp; `Enterprise Search` &nbsp; `Algolia`
 
-`Modern Web Apps` &nbsp; `Data & Analytics` &nbsp; `AI Development Tools`
+`Business Dashboards` &nbsp; `Workflow Automation` &nbsp; `System Architecture`
 
 </div>
 
 ---
 
-# 🌀 Technologies In Motion
+# Professional Focus
 
-<p align="center">
+I’m focused on building systems that connect **business operations, warehouse workflows, software engineering, data, automation, and AI**.
 
-<marquee behavior="scroll" direction="left" scrollamount="7">
+My experience and interests include:
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Copilot-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+`Forward Deployed Engineering` · `Full-Stack Development`  
+`WMS & Inventory Systems` · `Enterprise Applications`  
+`Automation & Integrations` · `AI Applications`  
+`Business Dashboards` · `Data & Cloud`
 
-</marquee>
-
-</p>
+I’m especially interested in projects where I can understand the business problem end to end and contribute across **architecture, UI/UX, backend development, databases, integrations, automation, AI, and delivery**.
 
 ---
 
-# 🔭 What I'm Building Toward
+# Selected Work
 
-I want to keep growing at the intersection of:
+My repositories include work and prototypes around:
 
-**Business Systems**  
-↓  
-**Software Development**  
-↓  
-**Automation**  
-↓  
-**AI**  
-↓  
-**Cloud**  
-↓  
-**Data**
-
-My goal is to keep building technology that is not just technically interesting, but **useful, connected, and actually solves a problem**.
-
-I’m particularly interested in opportunities involving:
-
-`Business Systems` · `IT` · `Automation` · `Full-Stack Development`  
-`AI & Automation` · `Cloud` · `Application Integration` · `Business Technology`
-
----
-
-# 💼 Open to New Opportunities
-
-I’m currently exploring **full-time and contract opportunities** where I can bring together my experience across technology, systems, automation, development, and AI.
-
-If you're hiring, building something interesting, or know someone working on a team where these skills could be useful, **I'd love to connect.**
-
----
-
-# ⭐ Take a Look Around
-
-I’ve put together my repositories to show the things I’ve been **building, experimenting with, and learning**.
-
-### 👇 Check out my repositories and projects
-
-**Explore the code.**  
-**Look through the projects.**  
-**See how I approach problems.**  
-**And feel free to reach out if something catches your attention.**
+- Full-stack enterprise applications
+- WMS and inventory workflows
+- Business and operational dashboards
+- API and systems integration
+- Workflow automation
+- AI-assisted applications
+- RAG and conversational systems
+- MCP and tool-connected AI concepts
+- Data migration and validation
+- Search and reporting systems
 
 <p align="center">
 
 <a href="https://github.com/YOUR_USERNAME?tab=repositories">
-<img src="https://img.shields.io/badge/🚀_EXPLORE_MY_REPOSITORIES-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VIEW_PROJECTS-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/ahmed-08044611m">
-<img src="https://img.shields.io/badge/LET'S_CONNECT-00C2FF?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-00C2FF?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </p>
@@ -225,11 +186,5 @@ I’ve put together my repositories to show the things I’ve been **building, e
 ---
 
 <p align="center">
-
-<b>💻 Build → 🤖 Automate → 🧠 Learn → 🚀 Improve</b>
-
-<br><br>
-
-<i>Always building something new.</i>
-
+  <b>Forward Deployed Engineering · WMS · Full-Stack Development · Automation · AI · Data</b>
 </p>
